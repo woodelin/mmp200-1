@@ -6,6 +6,10 @@ padding:0
   display:none;
 }
 
+h1{
+  text-align:center;
+}
+
 .toggle-menu span{
   display:block;
   background-color:#000;
