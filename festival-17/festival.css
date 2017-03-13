@@ -5,3 +5,11 @@ padding:0
 #main-menu{
   display:none;
 }
+
+.toggle-menu span{
+  display:block;
+  background-color:#000;
+  height:3px;
+  width:3em;
+  margin-bottom:3px;
+}
