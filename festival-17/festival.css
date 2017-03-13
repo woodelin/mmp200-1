@@ -14,6 +14,14 @@ body{
 
 #main-menu{
   display:none;
+    clear:both;
+}
+
+nav li{
+    border-bottom:solid 1px #ccc;
+    padding:0.5em;
+    list-style-type: none;
+    padding-left:1em;
 }
 
 h1{
@@ -37,7 +45,7 @@ h1{
 
 #date-loc{
     float:right;
-    width:50%;
+    width:80%;
     text-align:right;
 }
 
